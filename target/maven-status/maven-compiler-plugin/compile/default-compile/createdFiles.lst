@@ -1,0 +1,7 @@
+co\unicauca\tallerSOLID\parqueadero\parqueadero.class
+co\unicauca\tallerSOLID\parqueadero\plaza.class
+co\unicauca\tallerSOLID\domain\Moto.class
+co\unicauca\tallerSOLID\domain\Carro.class
+co\unicauca\tallerSOLID\domain\Vehiculo.class
+co\unicauca\tallerSOLID\domain\Camion.class
+main\main.class
